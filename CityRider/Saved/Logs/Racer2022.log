@@ -631,3 +631,174 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.18-09.13.08:691][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
 [2022.07.18-09.13.08:706][  0]LogLiveCoding: Display: Starting LiveCoding
 [2022.07.18-09.13.08:706][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.18-09.13.28:510][  0]LogLiveCoding: Display: First instance in process group "UE_Racer2022_0x0ea15714", spawning console
+[2022.07.18-09.13.28:510][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.18-09.13.28:510][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.18-09.13.28:513][  0]LogInit: Transaction tracking system initialized
+[2022.07.18-09.13.36:069][  0]BlueprintLog: New page: Editor Load
+[2022.07.18-09.13.39:356][  0]LocalizationService: Localization service is disabled
+[2022.07.18-09.13.39:796][  0]TimingProfiler: Initialize
+[2022.07.18-09.13.39:797][  0]TimingProfiler: OnSessionChanged
+[2022.07.18-09.13.39:797][  0]LoadingProfiler: Initialize
+[2022.07.18-09.13.39:797][  0]LoadingProfiler: OnSessionChanged
+[2022.07.18-09.13.39:797][  0]NetworkingProfiler: Initialize
+[2022.07.18-09.13.39:797][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.18-09.13.39:797][  0]MemoryProfiler: Initialize
+[2022.07.18-09.13.39:797][  0]MemoryProfiler: OnSessionChanged
+[2022.07.18-09.13.43:948][  0]LogFileCache: Scanning file cache for directory 'D:/RomyRMichael/UnrealProj/Racer2022/CityRider/Content/' took 0.02s
+[2022.07.18-09.13.43:949][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.18-09.13.44:199][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.18-09.13.44:202][  0]SourceControl: Source control is disabled
+[2022.07.18-09.13.44:202][  0]LogUnrealEdMisc: Loading editor; pre map load, took 105.174
+[2022.07.18-09.13.44:504][  0]LogFactory: Error: Can't find file 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack' for import
+[2022.07.18-09.13.44:779][  0]LogSlate: Took 0.175103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.18-09.13.49:782][  0]LogSlate: Window 'Message' being destroyed
+[2022.07.18-09.13.49:782][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.18-09.13.49:786][  0]Message dialog closed, result: Ok, title: Message, text: Failed to import 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack'. Failed to create asset '/Game/StarterContent'.
+Please see Output Log for details.
+[2022.07.18-09.13.49:801][  0]LogAssetTools: Warning: Failed to import 'D:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack'. Failed to create asset '/Game/StarterContent'.
+Please see Output Log for details.
+[2022.07.18-09.13.49:834][  0]LogFeaturePack: Warning: No objects imported installing pack StarterContent.upack
+[2022.07.18-09.13.49:834][  0]LogFeaturePack: Inserted 0 feature packs
+[2022.07.18-09.13.49:835][  0]Cmd: MAP LOAD FILE="../../../../../../RomyRMichael/UnrealProj/Racer2022/CityRider/Content/Maps/CityRider.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.18-09.13.49:835][  0]LogEditorServer: Warning: Can't find file '../../../../../../RomyRMichael/UnrealProj/Racer2022/CityRider/Content/Maps/CityRider.umap'
+[2022.07.18-09.13.49:835][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.18-09.13.49:835][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2022.07.18-09.13.49:836][  0]LogFileHelpers: Loading map 'CityRider' took 0.000
+[2022.07.18-09.13.49:873][  0]LogUnrealEdMisc: Total Editor Startup Time, took 110.846
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: ================================================
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.18-09.13.49:873][  0]LogShaderCompilers: Display: ================================================
+[2022.07.18-09.13.49:964][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.07.18-09.13.50:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.13.50:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.13.50:043][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.13.50:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.13.52:977][  0]LogSlate: Took 0.272164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.18-09.13.53:055][  0]LogSlate: Took 0.077862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.18-09.13.53:125][  0]LogSlate: Took 0.068582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.18-09.13.53:150][  0]LogViewport: Scene viewport resized to 1526x567, mode Windowed.
+[2022.07.18-09.13.55:470][  0]LogStall: Startup...
+[2022.07.18-09.13.55:472][  0]LogStall: Startup complete.
+[2022.07.18-09.13.55:739][  0]LogLoad: (Engine Initialization) Total time: 116.71 seconds
+[2022.07.18-09.13.55:739][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.18-09.13.55:748][  0]LogEditorViewport: Clicking Background
+[2022.07.18-09.13.55:749][  0]LogEditorViewport: Clicking Background
+[2022.07.18-09.13.55:796][  0]LogAssetRegistry: Asset discovery search completed in 80.9350 seconds
+[2022.07.18-09.13.55:803][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.18-09.13.55:831][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.18-09.13.57:266][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/RomyRMichael/UnrealProj/Racer2022/CityRider/Content/' took 1.49s
+[2022.07.18-09.13.57:278][  2]LogEditorViewport: Clicking Background
+[2022.07.18-09.13.57:322][  2]LogSlate: Took 0.006377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.18-09.14.00:430][327]LogEditorViewport: Clicking Background
+[2022.07.18-09.14.05:017][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.18-09.14.06:256][765]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/911_Racer.911_Racer
+[2022.07.18-09.14.06:271][765]Cmd: MAP LOAD FILE="../../../../../../RomyRMichael/UnrealProj/Racer2022/CityRider/Content/Maps/911_Racer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.18-09.14.06:271][765]LightingResults: New page: Lighting Build
+[2022.07.18-09.14.06:359][765]LoadErrors: New page: Loading map: 911_Racer.umap
+[2022.07.18-09.14.06:428][765]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-09.14.06:428][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-09.14.06:463][765]MapCheck: New page: Map Check
+[2022.07.18-09.14.06:463][765]LightingResults: New page: Lighting Build
+[2022.07.18-09.14.06:469][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.18-09.14.06:470][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.18-09.14.06:608][765]LogWorld: UWorld::CleanupWorld for 911_Racer, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-09.14.06:608][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-09.14.06:697][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.07.18-09.14.06:703][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.18-09.14.06:708][765]LogAudio: Display: Audio Device (ID: 1) registered with world '911_Racer'.
+[2022.07.18-09.14.06:868][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-09.14.06:869][765]LogAIModule: Creating AISystem for world 911_Racer
+[2022.07.18-09.14.06:891][765]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.18-09.14.06:903][765]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.18-09.14.07:204][765]LogWorldPartition: Display: WorldPartition initialize took 312 ms
+[2022.07.18-09.14.07:588][765]LogEditCondition: Error: EditCondition attempted to use an invalid operand "WorldPartition".
+[2022.07.18-09.14.07:847][765]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.18-09.14.07:951][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.18-09.14.07:953][765]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.18-09.14.07:963][765]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.467ms to complete.
+[2022.07.18-09.14.07:963][765]LogFileHelpers: Loading map '911_Racer' took 1.692
+[2022.07.18-09.14.14:056][ 75]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.18-09.14.21:424][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Right / Left' for  InputAxis Move Right / Left
+[2022.07.18-09.14.21:424][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Look Up / Down Gamepad' for  InputAxis Look Up / Down Gamepad
+[2022.07.18-09.14.21:424][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Look Up / Down Mouse' for  InputAxis Look Up / Down Mouse
+[2022.07.18-09.14.21:425][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn Right / Left Mouse' for  InputAxis Turn Right / Left Mouse
+[2022.07.18-09.14.21:425][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn Right / Left Gamepad' for  InputAxis Turn Right / Left Gamepad
+[2022.07.18-09.14.21:425][248]LogBlueprint: Warning: [AssetLog] D:\RomyRMichael\UnrealProj\Racer2022\CityRider\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Move Forward / Backward' for  InputAxis Move Forward / Backward
+[2022.07.18-09.14.30:960][ 95]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.18-09.14.30:963][ 95]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.18-09.14.32:553][266]LogDerivedDataCache: C:/Users/romyr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.264 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.18-09.14.32:948][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.18-09.14.38:769][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: GetPartitionedActors took 53 us
+[2022.07.18-09.14.38:829][  6]LogWorldPartition: Display: GenerateStreaming took 258 us
+[2022.07.18-09.14.38:936][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.18-09.14.38:947][  6]PIE: New page: PIE session: 911_Racer (Jul 18, 2022, 8:14:38 PM)
+[2022.07.18-09.14.38:971][  6]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.18-09.14.39:025][  6]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.18-09.14.39:047][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_911_Racer
+[2022.07.18-09.14.39:166][  6]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.18-09.14.39:178][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129938s)
+[2022.07.18-09.14.39:178][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/911_Racer.911_Racer to /Game/Maps/UEDPIE_0_911_Racer.911_Racer (0.130304s)
+[2022.07.18-09.14.39:178][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.18-09.14.39:178][  6]LogAIModule: Creating AISystem for world 911_Racer
+[2022.07.18-09.14.39:179][  6]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.18-09.14.39:179][  6]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.18-09.14.39:179][  6]LogWorldPartition: Display: WorldPartition initialize took 823 us
+[2022.07.18-09.14.39:179][  6]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2022.07.18-09.14.39:195][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.18-09.14.39:225][  6]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.18-09.14.39:225][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.18-09.14.39:225][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.18-09.14.39:225][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.18-09.14.39:225][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.18-09.14.39:225][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.18-09.14.39:227][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.18-09.14.39:247][  6]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.07.18-09.14.39:248][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.18-09.14.39:248][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.18-09.14.39:248][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.18-09.14.39:249][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.18-09.14.39:249][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.18-09.14.39:250][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.18-09.14.39:250][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.18-09.14.39:250][  6]LogInit: FAudioDevice initialized.
+[2022.07.18-09.14.39:250][  6]LogAudio: Display: Audio Device (ID: 2) registered with world '911_Racer'.
+[2022.07.18-09.14.39:412][  6]LogLoad: Game class is 'CarPlayer_PCTRL_C'
+[2022.07.18-09.14.39:414][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_911_Racer.911_Racer up for play (max tick rate 0) at 2022.07.18-14.44.39
+[2022.07.18-09.14.39:445][  6]LogWorld: Bringing up level for play took: 0.016512
+[2022.07.18-09.14.39:461][  6]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.07.18-09.14.39:920][  6]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=2870.000 Y=1770.000 Z=252.013
+[2022.07.18-09.14.39:920][  6]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.18-09.14.40:018][  6]PIE: Server logged in
+[2022.07.18-09.14.40:032][  6]PIE: Play in editor total start time 1.226 seconds.
+[2022.07.18-09.15.35:194][523]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2022.07.18-09.15.53:880][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.15.53:880][553]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_911_Racer
+[2022.07.18-09.15.53:880][553]LogWorld: UWorld::CleanupWorld for 911_Racer, bSessionEnded=true, bCleanupResources=true
+[2022.07.18-09.15.53:902][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-09.15.53:909][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.18-09.15.53:911][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.18-09.15.53:929][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.18-09.15.53:929][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.18-09.15.53:931][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.18-09.15.53:944][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.18-09.15.53:958][554]LogPlayLevel: Display: Destroying online subsystem :Context_2
